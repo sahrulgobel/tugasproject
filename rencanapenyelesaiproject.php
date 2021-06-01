@@ -8,4 +8,8 @@ RENCANA PENYELESAIAN
 Dimana dalam pembuatan aplikasi kami menyediakan pelayanan yang dibutuhkan seperti pembuatan SK, surat masuk dan keluar, legalisir (Ijazah, SKHUN, Raport),
 surat mutasi dan surat keterangan siswa yang nantinya dapat membantu dan mempermudah siswa, guru dan orang tua. Dengan di buatnya aplikasis berbasis web ini 
 dapat menghemat waktu serta biaya dan lebih efisien.
+Pendekatan			:
+•	Melakukan pertemuan langsung dengan klien (pihak MTs N 1 kota Gorontalo) untuk mendapatkan layanan-layanan apa saja yang dibutuhkan.
+•	Melakukan proses planning berupa wawancara terkait sistem yang seperti apa yang dibutuhkan
+
 
